@@ -1,0 +1,13 @@
+{
+    "name": "update.apk",
+    "size": 511771,
+    "compressedSize": 1327288,
+    "app": {
+      "name": "Segurtrust Supervisor",
+      "package": "com.hawkstec.app_sup.demo",
+      "version": {
+        "code": 10006,
+        "name": "1.0.6"
+      }
+    }
+  }
